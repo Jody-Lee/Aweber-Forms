@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<Module>
+  <ModulePrefs title="Recipes Max Weight Loss" /> 
+  <Content type="html">
+     <![CDATA[ 
+       <div class="AW-Form-594510496"></div>
+<script type="text/javascript">(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//forms.aweber.com/form/96/594510496.js";
+    fjs.parentNode.insertBefore(js, fjs);
+    }(document, "script", "aweber-wjs-pl2nf9fge"));
+</script>
+     ]]>
+  </Content> 
+</Module>
